@@ -22,7 +22,7 @@ You must verify that you meet the eligibility requirements to participate in the
 - You have not been accepted as a GSoC Contributor/Student more than once.
 - You must reside in a country that is not currently embargoed by the United States. See [Program Rules](https://developers.google.com/open-source/gsoc/faq) for more information.
 
-For more information, please visit the [official GSoC Guidelines](https://developers.google.com/open-source/gsoc/guides).
+For more information, please visit the [official GSoC Guidelines](https://developers.google.com/open-source/gsoc/guides). 
 
 ## About Devtron
 
