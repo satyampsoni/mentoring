@@ -61,8 +61,8 @@ To engage with the community and mentors, you can use the following channels:
 
 - Check out the [GSoC 2025 Project ideas](https://developers.google.com/open-source/gsoc/2025).
 - Select an interesting project idea or draft your own proposal.
-- Use the [project proposal template](https://developers.google.com/open-source/gsoc/proposal-template) to write your proposal.
-- If you are not familiar with Devtron, read the documentation and try using Devtron with one of your previous projects. If you face any challenges, feel free to contact us via Discord.
+- Use the [project proposal template](https://google.github.io/gsocguides/student/writing-a-proposal) to write your proposal.
+- If you are not familiar with Devtron, read the [documentation](https://docs.devtron.ai/) and try using Devtron with one of your previous projects. If you face any challenges, feel free to contact us via Discord.
 - Join the [Discord Community](https://discord.devtron.ai/).
 - Recommended: Do some contributions in the area of your project idea. You can check out [good first issues](https://github.com/devtron-labs/devtron/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
